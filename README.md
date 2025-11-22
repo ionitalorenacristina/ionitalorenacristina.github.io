@@ -1,3 +1,5 @@
+![Welcome Banner](images/banner.png)
+
 # Lorena-Cristina Ionita – Data Analyst Portfolio
 
 # Projects
