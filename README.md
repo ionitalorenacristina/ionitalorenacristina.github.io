@@ -8,7 +8,7 @@
   This project presents a Power BI dashboard designed to analyze key performance metrics for a retail business. It provides a clear overview of total sales (229.61K), total profit (57.69K), profit margin (25.13%), and average quantity sold (5.02), offering a snapshot of overall business health.
   The dashboard breaks down performance by product categories and top products, helping identify which items drive the most revenue and profit. It also includes a regional analysis across North, West, South, and East, revealing geographic trends in both sales and profitability. Additionally, customer segments such as Consumer, Corporate, and Home Office are compared to understand differences in purchasing behavior.
   As an aspiring data analyst, this project demonstrates my ability to clean and interpret data, build interactive visualizations, and translate complex information into meaningful insights that support business decision-making.
-![Retail Dashboard](Images/DashboardRetail.pdf)
+![Retail Dashboard](Images/DashboardRetailInsights.png)
 
 # Foreign Direct Investments in Romania
 - Analyzed investment trends using Excel
